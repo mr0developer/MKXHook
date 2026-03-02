@@ -74,7 +74,7 @@ and is ready to use. By default **F1** will open or close in-game menu.
 
 # Building
 
-MK11Hook was developed & tested using Visual Studio 2017.
+MKXHook was developed & tested using Visual Studio 2017.
 
 
 
